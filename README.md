@@ -88,7 +88,7 @@ Kept: core detection logic, performance focus, hardware behavior.
 GPLv3
 
 ## Credits
-- Refactoring / Python version: https://github.com/Esgrouviado
+- Refactoring / Python version: https://github.com/JoaojPereira
 - Based on fork: https://github.com/srijan/hpfall
 - Original C contributors: Eric Piel (2008), Pavel Machek (2009)
 
